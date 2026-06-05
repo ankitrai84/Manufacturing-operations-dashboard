@@ -98,6 +98,12 @@ This project demonstrates how predictive maintenance analytics can help manufact
 
 ---
 
+# 📄 Project Report
+
+Detailed project documentation:
+
+[Download Full Project Report](Project_Report/Manufacturing_Operations_Report.pdf)
+
 # 👨‍💻 Author
 
 Ankit Rai
