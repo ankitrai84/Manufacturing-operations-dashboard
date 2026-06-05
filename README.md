@@ -102,7 +102,7 @@ This project demonstrates how predictive maintenance analytics can help manufact
 
 Detailed project documentation:
 
-[Download Full Project Report](Project_Report/Manufacturing_Operations_Report.pdf)
+[Download Full Project Report](Project_Report/Manufacturing_Predictive_Maintenance_Report.pdf)
 
 # 👨‍💻 Author
 
